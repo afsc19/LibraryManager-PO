@@ -2,7 +2,7 @@
 Object-Oriented Programming, Project (LEIC-A 25/26 - IST)
 
 The project consists of an application that assists the management of a library's collection.
-All the features implemented are described in the [assignment statement](enunciado.pdf).
+All the implemented features are described in the [assignment statement](enunciado.pdf).
 
 Read the [assignment statement](enunciado.pdf) for more information.
 
