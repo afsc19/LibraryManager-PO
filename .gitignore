@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.outhyp
+*.diff
+*.dat
+po-uilib
+bin
+.vscode
+Makefile
+.classpath
+.project
