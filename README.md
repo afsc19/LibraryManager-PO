@@ -4,6 +4,10 @@ Object-Oriented Programming, Project (LEIC-A 25/26 - IST)
 The project consists of an application that assists the management of a library's collection.
 All the implemented features are described in the [assignment statement](enunciado.pdf).
 
+* Core: `bci-core` contains the domain classes
+* Interaction: `bci-app` contains the user interaction classes
+* UML diagrams: `uml` will contain the diagrams from the first delivery
+
 Read the [assignment statement](enunciado.pdf) for more information.
 
 ### Grade
