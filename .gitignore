@@ -6,6 +6,9 @@
 po-uilib
 bin
 .vscode
-Makefile
 .classpath
 .project
+
+# For public repository purposes
+# Makefile
+!po-uilib.jar
